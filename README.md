@@ -10,6 +10,7 @@ Using Redux, preferably using a thunk to wrap our api call.
 - Redux
 - JSX
 - JavaScript
+- Styled components
 - Flexbox
 - CSS
 - Pair programming
@@ -30,7 +31,7 @@ It was a fun project and we learned a lot, but the camera scan ate up a lot of o
 
 ## View it live
 
-
+Here you can try it out: https://determined-kare-f6a522.netlify.app/
 
 
 
