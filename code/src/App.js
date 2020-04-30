@@ -51,7 +51,6 @@ export const App = () => {
 
 const Container = styled.section`
   font-family: "Work Sans", sans-serif;
-
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -60,14 +59,15 @@ const Container = styled.section`
 const InnerContainer = styled.section`
   width: 80%;
   max-width: 300px;
-  background-color: #c3d3e0;
+  background-color: #C9E299;
   padding: 20px;
-  margin-top: 20px;
-  border: 15px solid #e3b49a;
+  margin-top: 60px;
+  border: 15px solid #c5f759;
 
   @media (max-width: 400px) {
     margin-top: 20px;
     border: none;
+    background-color: #c5f759;
   }
 
 `;

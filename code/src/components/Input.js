@@ -63,9 +63,9 @@ const BarcodeButton = styled.button`
   border-radius: 50px;
   cursor: pointer;
   font-size: 14px;
-  background: #ce784d;
-  color: whitesmoke;
+  background: #f73b51;
+  color: #fff;
   &:hover {
-    background: #193546;
+    background: #184429;
   }
 `;
